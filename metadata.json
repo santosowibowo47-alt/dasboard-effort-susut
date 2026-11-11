@@ -1,0 +1,6 @@
+{
+  "name": "PLN UID Jatim - Dashboard Performa LM",
+  "description": "Dashboard real-time pemantauan performa harian Losses Management (LM) seluruh UP3 PT PLN (Persero) UID Jawa Timur",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

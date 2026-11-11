@@ -1,0 +1,2586 @@
+[
+  {
+    "unit": "SURABAYA SELATAN",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 1680000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 620000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 204045,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 2504045,
+      "real": 394059,
+      "pct": 16
+    },
+    "pengawasanMultiguna": {
+      "target": 608000,
+      "real": 83520,
+      "pct": 14
+    },
+    "kompensasiUjlLpb": {
+      "target": 152400,
+      "real": 24365,
+      "pct": 16
+    },
+    "amrisasi": {
+      "targetVol": 354,
+      "targetKwh": 168221,
+      "realVol": 21,
+      "realKwh": 9979,
+      "pctVol": 6,
+      "pctKwh": 6
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 257,
+      "targetKwh": 2049,
+      "realVol": 187,
+      "realKwh": 595,
+      "pctVol": 73,
+      "pctKwh": 29
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 4,
+      "targetKwh": 373,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 261,
+      "targetKwh": 2422,
+      "realVol": 187,
+      "realKwh": 595,
+      "pctVol": 72,
+      "pctKwh": 25
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 1,
+      "targetKwh": 477678,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 5200,
+      "targetKwh": 69930,
+      "realVol": 1209,
+      "realKwh": 16259,
+      "pctVol": 23,
+      "pctKwh": 23
+    },
+    "optimalisasiBilling": {
+      "target": 204577,
+      "real": 204577,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 2176921,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 6364194,
+    "totalRealKwh": 733354,
+    "totalPencapaianPct": 12,
+    "penyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 80,
+      "targetKwh": 27216,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 120,
+      "targetKwh": 21876,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 400,
+      "targetKwh": 342,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 74317,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "SURABAYA UTARA",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 1700000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 320000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 69993,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 2089993,
+      "real": 381839,
+      "pct": 18
+    },
+    "pengawasanMultiguna": {
+      "target": 426000,
+      "real": 14134,
+      "pct": 3
+    },
+    "kompensasiUjlLpb": {
+      "target": 102600,
+      "real": 25567,
+      "pct": 25
+    },
+    "amrisasi": {
+      "targetVol": 368,
+      "targetKwh": 174874,
+      "realVol": 9,
+      "realKwh": 4277,
+      "pctVol": 2,
+      "pctKwh": 2
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 1,
+      "targetKwh": 617,
+      "realVol": 143,
+      "realKwh": 455,
+      "pctVol": 14300,
+      "pctKwh": 74
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 1,
+      "targetKwh": 617,
+      "realVol": 143,
+      "realKwh": 455,
+      "pctVol": 14300,
+      "pctKwh": 74
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 2200,
+      "targetKwh": 29586,
+      "realVol": 870,
+      "realKwh": 11700,
+      "pctVol": 40,
+      "pctKwh": 40
+    },
+    "optimalisasiBilling": {
+      "target": 123298,
+      "real": 123298,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 980862,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 3927830,
+    "totalRealKwh": 561271,
+    "totalPencapaianPct": 14,
+    "penyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 96,
+      "targetKwh": 32659,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 144,
+      "targetKwh": 26251,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 480,
+      "targetKwh": 410,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 84204,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "MALANG",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 3920000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 1080000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 48872,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 5048872,
+      "real": 259935,
+      "pct": 5
+    },
+    "pengawasanMultiguna": {
+      "target": 468000,
+      "real": 42393,
+      "pct": 9
+    },
+    "kompensasiUjlLpb": {
+      "target": 151800,
+      "real": 33887,
+      "pct": 22
+    },
+    "amrisasi": {
+      "targetVol": 730,
+      "targetKwh": 346896,
+      "realVol": 196,
+      "realKwh": 93139,
+      "pctVol": 27,
+      "pctKwh": 27
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 385,
+      "targetKwh": 3067,
+      "realVol": 190,
+      "realKwh": 605,
+      "pctVol": 49,
+      "pctKwh": 20
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 385,
+      "targetKwh": 3067,
+      "realVol": 190,
+      "realKwh": 605,
+      "pctVol": 49,
+      "pctKwh": 20
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 10000,
+      "targetKwh": 134481,
+      "realVol": 306,
+      "realKwh": 4115,
+      "pctVol": 3,
+      "pctKwh": 3
+    },
+    "optimalisasiBilling": {
+      "target": 118101,
+      "real": 118101,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 2390470,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 8661688,
+    "totalRealKwh": 552175,
+    "totalPencapaianPct": 6,
+    "penyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 498190,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 3,
+      "targetKwh": 1922700,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 3,
+      "targetKwh": 2420890,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 208,
+      "targetKwh": 70762,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 312,
+      "targetKwh": 56878,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 1040,
+      "targetKwh": 889,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 2574302,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "PASURUAN",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 2400000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 1240000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 10269,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 3650269,
+      "real": 223991,
+      "pct": 6
+    },
+    "pengawasanMultiguna": {
+      "target": 370000,
+      "real": 43471,
+      "pct": 12
+    },
+    "kompensasiUjlLpb": {
+      "target": 110600,
+      "real": 40787,
+      "pct": 37
+    },
+    "amrisasi": {
+      "targetVol": 563,
+      "targetKwh": 267538,
+      "realVol": 25,
+      "realKwh": 11880,
+      "pctVol": 4,
+      "pctKwh": 4
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 2335,
+      "targetKwh": 18578,
+      "realVol": 98,
+      "realKwh": 312,
+      "pctVol": 4,
+      "pctKwh": 2
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 63,
+      "targetKwh": 5880,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 2398,
+      "targetKwh": 24458,
+      "realVol": 98,
+      "realKwh": 312,
+      "pctVol": 4,
+      "pctKwh": 1
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 88,
+      "targetKwh": 153908,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 4600,
+      "targetKwh": 61861,
+      "realVol": 1556,
+      "realKwh": 20925,
+      "pctVol": 34,
+      "pctKwh": 34
+    },
+    "optimalisasiBilling": {
+      "target": 224758,
+      "real": 224758,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 2035712,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 6899103,
+    "totalRealKwh": 566124,
+    "totalPencapaianPct": 8,
+    "penyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 2,
+      "targetKwh": 1810000,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 2,
+      "targetKwh": 1810000,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 144,
+      "targetKwh": 48989,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 216,
+      "targetKwh": 39377,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 720,
+      "targetKwh": 616,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 1923864,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "KEDIRI",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 3040000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 880000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 21957,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 3941957,
+      "real": 595066,
+      "pct": 15
+    },
+    "pengawasanMultiguna": {
+      "target": 462000,
+      "real": 39261,
+      "pct": 8
+    },
+    "kompensasiUjlLpb": {
+      "target": 102800,
+      "real": 27642,
+      "pct": 27
+    },
+    "amrisasi": {
+      "targetVol": 912,
+      "targetKwh": 433382,
+      "realVol": 89,
+      "realKwh": 42293,
+      "pctVol": 10,
+      "pctKwh": 10
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 515,
+      "targetKwh": 4101,
+      "realVol": 204,
+      "realKwh": 649,
+      "pctVol": 40,
+      "pctKwh": 16
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 11,
+      "targetKwh": 1027,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 526,
+      "targetKwh": 5128,
+      "realVol": 204,
+      "realKwh": 649,
+      "pctVol": 39,
+      "pctKwh": 13
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 8,
+      "targetKwh": 26308,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 7600,
+      "targetKwh": 102205,
+      "realVol": 1349,
+      "realKwh": 18141,
+      "pctVol": 18,
+      "pctKwh": 18
+    },
+    "optimalisasiBilling": {
+      "target": 103446,
+      "real": 103446,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 2266395,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 7443621,
+    "totalRealKwh": 826498,
+    "totalPencapaianPct": 11,
+    "penyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 543491,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 543491,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 176,
+      "targetKwh": 59875,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 264,
+      "targetKwh": 48127,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 880,
+      "targetKwh": 752,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 677129,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "MOJOKERTO",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 2500000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 1020000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 18566,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 3538566,
+      "real": 380085,
+      "pct": 11
+    },
+    "pengawasanMultiguna": {
+      "target": 304000,
+      "real": 23344,
+      "pct": 8
+    },
+    "kompensasiUjlLpb": {
+      "target": 122200,
+      "real": 30997,
+      "pct": 25
+    },
+    "amrisasi": {
+      "targetVol": 951,
+      "targetKwh": 451915,
+      "realVol": 9,
+      "realKwh": 4277,
+      "pctVol": 1,
+      "pctKwh": 1
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 1067,
+      "targetKwh": 8482,
+      "realVol": 323,
+      "realKwh": 1028,
+      "pctVol": 30,
+      "pctKwh": 12
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 1,
+      "targetKwh": 93,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 1068,
+      "targetKwh": 8576,
+      "realVol": 323,
+      "realKwh": 1028,
+      "pctVol": 30,
+      "pctKwh": 12
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 11,
+      "targetKwh": 201716,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 6800,
+      "targetKwh": 91447,
+      "realVol": 1302,
+      "realKwh": 17509,
+      "pctVol": 19,
+      "pctKwh": 19
+    },
+    "optimalisasiBilling": {
+      "target": 252178,
+      "real": 252178,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 2432408,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 7403006,
+    "totalRealKwh": 709419,
+    "totalPencapaianPct": 10,
+    "penyulangBaru": {
+      "targetVol": 2,
+      "targetKwh": 676654,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 2,
+      "targetKwh": 676654,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 160,
+      "targetKwh": 54432,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 240,
+      "targetKwh": 43752,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 800,
+      "targetKwh": 684,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 800405,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "MADIUN",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 1640000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 300000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 59683,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 1999683,
+      "real": 234321,
+      "pct": 12
+    },
+    "pengawasanMultiguna": {
+      "target": 226000,
+      "real": 26077,
+      "pct": 12
+    },
+    "kompensasiUjlLpb": {
+      "target": 97400,
+      "real": 8875,
+      "pct": 9
+    },
+    "amrisasi": {
+      "targetVol": 403,
+      "targetKwh": 191506,
+      "realVol": 77,
+      "realKwh": 36590,
+      "pctVol": 19,
+      "pctKwh": 19
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 329,
+      "targetKwh": 2612,
+      "realVol": 170,
+      "realKwh": 541,
+      "pctVol": 52,
+      "pctKwh": 21
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 19,
+      "targetKwh": 1820,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 348,
+      "targetKwh": 4432,
+      "realVol": 170,
+      "realKwh": 541,
+      "pctVol": 49,
+      "pctKwh": 12
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 2,
+      "targetKwh": 114518,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 6800,
+      "targetKwh": 91447,
+      "realVol": 1005,
+      "realKwh": 13515,
+      "pctVol": 15,
+      "pctKwh": 15
+    },
+    "optimalisasiBilling": {
+      "target": 50523,
+      "real": 50523,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 2089771,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 4865279,
+    "totalRealKwh": 370443,
+    "totalPencapaianPct": 8,
+    "penyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 986050,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 986050,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 112,
+      "targetKwh": 38102,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 168,
+      "targetKwh": 30626,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 560,
+      "targetKwh": 479,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 1080141,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "JEMBER",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 1420000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 540000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 11292,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 1971292,
+      "real": 276378,
+      "pct": 14
+    },
+    "pengawasanMultiguna": {
+      "target": 166000,
+      "real": 8081,
+      "pct": 5
+    },
+    "kompensasiUjlLpb": {
+      "target": 102400,
+      "real": 29492,
+      "pct": 29
+    },
+    "amrisasi": {
+      "targetVol": 178,
+      "targetKwh": 84586,
+      "realVol": 23,
+      "realKwh": 10930,
+      "pctVol": 13,
+      "pctKwh": 13
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 377,
+      "targetKwh": 3004,
+      "realVol": 144,
+      "realKwh": 458,
+      "pctVol": 38,
+      "pctKwh": 15
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 5,
+      "targetKwh": 467,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 382,
+      "targetKwh": 3470,
+      "realVol": 144,
+      "realKwh": 458,
+      "pctVol": 38,
+      "pctKwh": 13
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 14,
+      "targetKwh": 10872,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 5400,
+      "targetKwh": 72620,
+      "realVol": 1743,
+      "realKwh": 23440,
+      "pctVol": 32,
+      "pctKwh": 32
+    },
+    "optimalisasiBilling": {
+      "target": 64964,
+      "real": 64964,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 2215041,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 4691244,
+    "totalRealKwh": 413742,
+    "totalPencapaianPct": 9,
+    "penyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 823346,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 823346,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 144,
+      "targetKwh": 48989,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 216,
+      "targetKwh": 39377,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 720,
+      "targetKwh": 616,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 937210,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "BOJONEGORO",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 2400000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 600000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 0,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 3000000,
+      "real": 313573,
+      "pct": 10
+    },
+    "pengawasanMultiguna": {
+      "target": 416000,
+      "real": 24131,
+      "pct": 6
+    },
+    "kompensasiUjlLpb": {
+      "target": 146600,
+      "real": 31301,
+      "pct": 21
+    },
+    "amrisasi": {
+      "targetVol": 321,
+      "targetKwh": 152539,
+      "realVol": 22,
+      "realKwh": 10454,
+      "pctVol": 7,
+      "pctKwh": 7
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 1149,
+      "targetKwh": 9135,
+      "realVol": 129,
+      "realKwh": 410,
+      "pctVol": 11,
+      "pctKwh": 4
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 25,
+      "targetKwh": 2333,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 1174,
+      "targetKwh": 11468,
+      "realVol": 129,
+      "realKwh": 410,
+      "pctVol": 11,
+      "pctKwh": 4
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 7000,
+      "targetKwh": 94137,
+      "realVol": 1580,
+      "realKwh": 21248,
+      "pctVol": 23,
+      "pctKwh": 23
+    },
+    "optimalisasiBilling": {
+      "target": 136302,
+      "real": 136302,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 2284126,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 6241171,
+    "totalRealKwh": 537420,
+    "totalPencapaianPct": 9,
+    "penyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 709056,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 709056,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 128,
+      "targetKwh": 43546,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 192,
+      "targetKwh": 35002,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 640,
+      "targetKwh": 547,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 813034,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "BANYUWANGI",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 1360000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 540000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 0,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 1900000,
+      "real": 185808,
+      "pct": 10
+    },
+    "pengawasanMultiguna": {
+      "target": 166000,
+      "real": 14899,
+      "pct": 9
+    },
+    "kompensasiUjlLpb": {
+      "target": 82600,
+      "real": 22183,
+      "pct": 27
+    },
+    "amrisasi": {
+      "targetVol": 304,
+      "targetKwh": 144461,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 498,
+      "targetKwh": 3961,
+      "realVol": 120,
+      "realKwh": 382,
+      "pctVol": 24,
+      "pctKwh": 10
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 498,
+      "targetKwh": 3961,
+      "realVol": 120,
+      "realKwh": 382,
+      "pctVol": 24,
+      "pctKwh": 10
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 4000,
+      "targetKwh": 53792,
+      "realVol": 1064,
+      "realKwh": 14309,
+      "pctVol": 27,
+      "pctKwh": 27
+    },
+    "optimalisasiBilling": {
+      "target": 43199,
+      "real": 43199,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 1231413,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 3625426,
+    "totalRealKwh": 280779,
+    "totalPencapaianPct": 8,
+    "penyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 703506,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 703506,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 80,
+      "targetKwh": 27216,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 120,
+      "targetKwh": 21876,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 400,
+      "targetKwh": 342,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 777823,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "MADURA",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 4260000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 1209394,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 20728,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 5490122,
+      "real": 815766,
+      "pct": 15
+    },
+    "pengawasanMultiguna": {
+      "target": 98000,
+      "real": 12712,
+      "pct": 13
+    },
+    "kompensasiUjlLpb": {
+      "target": 66600,
+      "real": 6776,
+      "pct": 10
+    },
+    "amrisasi": {
+      "targetVol": 473,
+      "targetKwh": 224770,
+      "realVol": 49,
+      "realKwh": 23285,
+      "pctVol": 10,
+      "pctKwh": 10
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 2765,
+      "targetKwh": 21998,
+      "realVol": 470,
+      "realKwh": 1495,
+      "pctVol": 17,
+      "pctKwh": 7
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 1,
+      "targetKwh": 140,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 2766,
+      "targetKwh": 22138,
+      "realVol": 470,
+      "realKwh": 1495,
+      "pctVol": 17,
+      "pctKwh": 7
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 8200,
+      "targetKwh": 110274,
+      "realVol": 799,
+      "realKwh": 10745,
+      "pctVol": 10,
+      "pctKwh": 10
+    },
+    "optimalisasiBilling": {
+      "target": 43149,
+      "real": 43149,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 3473242,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 9528295,
+    "totalRealKwh": 913928,
+    "totalPencapaianPct": 10,
+    "penyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 1155540,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 1155540,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 160,
+      "targetKwh": 54432,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 240,
+      "targetKwh": 43752,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 800,
+      "targetKwh": 684,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 1279291,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "SITUBONDO",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 1400000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 300000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 0,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 1700000,
+      "real": 150314,
+      "pct": 9
+    },
+    "pengawasanMultiguna": {
+      "target": 34000,
+      "real": 9560,
+      "pct": 28
+    },
+    "kompensasiUjlLpb": {
+      "target": 40800,
+      "real": 10136,
+      "pct": 25
+    },
+    "amrisasi": {
+      "targetVol": 31,
+      "targetKwh": 14731,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 152,
+      "targetKwh": 1209,
+      "realVol": 132,
+      "realKwh": 420,
+      "pctVol": 87,
+      "pctKwh": 35
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 152,
+      "targetKwh": 1209,
+      "realVol": 132,
+      "realKwh": 420,
+      "pctVol": 87,
+      "pctKwh": 35
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 3000,
+      "targetKwh": 40344,
+      "realVol": 340,
+      "realKwh": 4572,
+      "pctVol": 11,
+      "pctKwh": 11
+    },
+    "optimalisasiBilling": {
+      "target": 19930,
+      "real": 19930,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 1143069,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 2994084,
+    "totalRealKwh": 194932,
+    "totalPencapaianPct": 7,
+    "penyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 374400,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 374400,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 80,
+      "targetKwh": 27216,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 120,
+      "targetKwh": 21876,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 400,
+      "targetKwh": 342,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 448717,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "GRESIK",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 560000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 80000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 30842,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 670842,
+      "real": 84225,
+      "pct": 13
+    },
+    "pengawasanMultiguna": {
+      "target": 298000,
+      "real": 27426,
+      "pct": 9
+    },
+    "kompensasiUjlLpb": {
+      "target": 56600,
+      "real": 62347,
+      "pct": 110
+    },
+    "amrisasi": {
+      "targetVol": 209,
+      "targetKwh": 99317,
+      "realVol": 17,
+      "realKwh": 8078,
+      "pctVol": 8,
+      "pctKwh": 8
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 181,
+      "targetKwh": 1444,
+      "realVol": 137,
+      "realKwh": 436,
+      "pctVol": 76,
+      "pctKwh": 30
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 181,
+      "targetKwh": 1444,
+      "realVol": 137,
+      "realKwh": 436,
+      "pctVol": 76,
+      "pctKwh": 30
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 3,
+      "targetKwh": 55332,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 2200,
+      "targetKwh": 29586,
+      "realVol": 451,
+      "realKwh": 6065,
+      "pctVol": 21,
+      "pctKwh": 21
+    },
+    "optimalisasiBilling": {
+      "target": 196710,
+      "real": 196710,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 875467,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 2283298,
+    "totalRealKwh": 385288,
+    "totalPencapaianPct": 17,
+    "penyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 66309,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 66309,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 64,
+      "targetKwh": 21773,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 96,
+      "targetKwh": 17501,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 320,
+      "targetKwh": 274,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 130739,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "SIDOARJO",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 1340000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 500000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 31577,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 1871577,
+      "real": 215901,
+      "pct": 12
+    },
+    "pengawasanMultiguna": {
+      "target": 426000,
+      "real": 33277,
+      "pct": 8
+    },
+    "kompensasiUjlLpb": {
+      "target": 62400,
+      "real": 28360,
+      "pct": 45
+    },
+    "amrisasi": {
+      "targetVol": 156,
+      "targetKwh": 74131,
+      "realVol": 13,
+      "realKwh": 6178,
+      "pctVol": 8,
+      "pctKwh": 8
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 1,
+      "targetKwh": 1,
+      "realVol": 116,
+      "realKwh": 369,
+      "pctVol": 11600,
+      "pctKwh": 36907
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 1,
+      "targetKwh": 1,
+      "realVol": 116,
+      "realKwh": 369,
+      "pctVol": 11600,
+      "pctKwh": 36907
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 3000,
+      "targetKwh": 40344,
+      "realVol": 390,
+      "realKwh": 5245,
+      "pctVol": 13,
+      "pctKwh": 13
+    },
+    "optimalisasiBilling": {
+      "target": 212054,
+      "real": 212054,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 1468271,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 4154778,
+    "totalRealKwh": 501383,
+    "totalPencapaianPct": 12,
+    "penyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 330700,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 1,
+      "targetKwh": 330700,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 48,
+      "targetKwh": 16330,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 72,
+      "targetKwh": 13126,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 240,
+      "targetKwh": 205,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 385244,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "SURABAYA BARAT",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 1180000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 280000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 8079,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 1468079,
+      "real": 130407,
+      "pct": 9
+    },
+    "pengawasanMultiguna": {
+      "target": 198000,
+      "real": 27311,
+      "pct": 14
+    },
+    "kompensasiUjlLpb": {
+      "target": 35200,
+      "real": 5029,
+      "pct": 14
+    },
+    "amrisasi": {
+      "targetVol": 257,
+      "targetKwh": 122126,
+      "realVol": 27,
+      "realKwh": 12830,
+      "pctVol": 11,
+      "pctKwh": 11
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 260,
+      "targetKwh": 2068,
+      "realVol": 53,
+      "realKwh": 169,
+      "pctVol": 20,
+      "pctKwh": 8
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 260,
+      "targetKwh": 2068,
+      "realVol": 53,
+      "realKwh": 169,
+      "pctVol": 20,
+      "pctKwh": 8
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 1,
+      "targetKwh": 4814,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 2000,
+      "targetKwh": 26896,
+      "realVol": 493,
+      "realKwh": 6630,
+      "pctVol": 25,
+      "pctKwh": 25
+    },
+    "optimalisasiBilling": {
+      "target": 101029,
+      "real": 101029,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 856230,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 2814442,
+    "totalRealKwh": 283405,
+    "totalPencapaianPct": 10,
+    "penyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 48,
+      "targetKwh": 16330,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 72,
+      "targetKwh": 13126,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 240,
+      "targetKwh": 205,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 54544,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "PONOROGO",
+    "isUidJatim": false,
+    "p2tlRutin": {
+      "target": 1460000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 60000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 151,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 1520151,
+      "real": 183033,
+      "pct": 12
+    },
+    "pengawasanMultiguna": {
+      "target": 106000,
+      "real": 11577,
+      "pct": 11
+    },
+    "kompensasiUjlLpb": {
+      "target": 35600,
+      "real": 11261,
+      "pct": 32
+    },
+    "amrisasi": {
+      "targetVol": 389,
+      "targetKwh": 184853,
+      "realVol": 6,
+      "realKwh": 2851,
+      "pctVol": 2,
+      "pctKwh": 2
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 1,
+      "targetKwh": 465,
+      "realVol": 11,
+      "realKwh": 35,
+      "pctVol": 1100,
+      "pctKwh": 8
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 1,
+      "targetKwh": 465,
+      "realVol": 11,
+      "realKwh": 35,
+      "pctVol": 1100,
+      "pctKwh": 8
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 100,
+      "pctKwh": 100
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 6400,
+      "targetKwh": 86068,
+      "realVol": 1171,
+      "realKwh": 15748,
+      "pctVol": 18,
+      "pctKwh": 18
+    },
+    "optimalisasiBilling": {
+      "target": 30172,
+      "real": 30172,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 1399003,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 3362311,
+    "totalRealKwh": 254678,
+    "totalPencapaianPct": 8,
+    "penyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 0,
+      "targetKwh": 0,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 24,
+      "targetKwh": 24883,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 64,
+      "targetKwh": 21773,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 96,
+      "targetKwh": 17501,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 320,
+      "targetKwh": 274,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 64430,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  },
+  {
+    "unit": "UID JATIM",
+    "isUidJatim": true,
+    "p2tlRutin": {
+      "target": 32260000,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlExtra": {
+      "target": 9569394,
+      "real": 0,
+      "pct": 0
+    },
+    "p2tlOpen": {
+      "target": 536053,
+      "real": 0,
+      "pct": 0
+    },
+    "subTotalP2tl": {
+      "target": 42365447,
+      "real": 4824701,
+      "pct": 11.39
+    },
+    "pengawasanMultiguna": {
+      "target": 4772000,
+      "real": 441176,
+      "pct": 9.25
+    },
+    "kompensasiUjlLpb": {
+      "target": 1468600,
+      "real": 399005,
+      "pct": 27.17
+    },
+    "amrisasi": {
+      "targetVol": 6599,
+      "targetKwh": 3135845,
+      "realVol": 583,
+      "realKwh": 277042,
+      "pctVol": 8.83,
+      "pctKwh": 0
+    },
+    "gantiMeter1Ph": {
+      "targetVol": 10273,
+      "targetKwh": 82791,
+      "realVol": 2627,
+      "realKwh": 8358,
+      "pctVol": 25.57,
+      "pctKwh": 10.1
+    },
+    "gantiMeter3Ph": {
+      "targetVol": 129,
+      "targetKwh": 12133,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "subTotalGantiMeter": {
+      "targetVol": 10402,
+      "targetKwh": 94924,
+      "realVol": 2627,
+      "realKwh": 8358,
+      "pctVol": 25.25,
+      "pctKwh": 0
+    },
+    "penyelesaian720Jn": {
+      "targetVol": 128,
+      "targetKwh": 1045146,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "peningkatanTokenPb": {
+      "targetVol": 84400,
+      "targetKwh": 1135019,
+      "realVol": 15628,
+      "realKwh": 210167,
+      "pctVol": 18.52,
+      "pctKwh": 18.52
+    },
+    "optimalisasiBilling": {
+      "target": 1924390,
+      "real": 1924390,
+      "pct": 100
+    },
+    "pengembalianSaldoLpb": {
+      "target": 29318400,
+      "real": 0,
+      "pct": 0
+    },
+    "totalTargetKwh": 85259771,
+    "totalRealKwh": 8084839,
+    "totalPencapaianPct": 0,
+    "penyulangBaru": {
+      "targetVol": 8,
+      "targetKwh": 6867242,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigurasi": {
+      "targetVol": 5,
+      "targetKwh": 3732700,
+      "realVol": 0,
+      "realKwh": 0
+    },
+    "rekonfigPenyulangBaru": {
+      "targetVol": 13,
+      "targetKwh": 10599942,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm1Jtm": {
+      "targetVol": 384,
+      "targetKwh": 398131,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm2Phbtr": {
+      "targetVol": 1792,
+      "targetKwh": 609638,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm3Jtr": {
+      "targetVol": 2688,
+      "targetKwh": 490022,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "lm4Sr": {
+      "targetVol": 8960,
+      "targetKwh": 7661,
+      "realVol": 0,
+      "realKwh": 0,
+      "pctVol": 0,
+      "pctKwh": 0
+    },
+    "effortTeknis": {
+      "totalTargetKwh": 12105394,
+      "totalRealKwh": 0,
+      "pct": 0
+    }
+  }
+]
